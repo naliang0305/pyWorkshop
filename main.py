@@ -4,5 +4,5 @@
 print('hello!')
 
 studentA = "I'm studentA"
-studentB = "I'm studentB"
+studentB = input('Enter your name:')
 print(studentA,studentB)
