@@ -4,4 +4,5 @@
 print('hello!')
 
 studentA = "I'm studentA"
-print(studentA)
+studentB = "I'm studentB"
+print(studentA,studentB)
